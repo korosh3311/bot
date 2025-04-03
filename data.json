@@ -1,0 +1,9 @@
+[
+  {
+    "id": "user1",
+    "name": "User One",
+    "balance": 500,
+    "referrals": 0,
+    "lastWithdraw": 0
+  }
+]
